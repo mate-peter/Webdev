@@ -1241,6 +1241,7 @@ textarea::placeholder {
         background: rgb(13,17,19);
     background: linear-gradient(180deg, rgba(13,17,19,1) 0%, rgba(12,15,18,1) 40%, rgba(5,8,10,1) 70%);
     }
+    
 }
 
 
