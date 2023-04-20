@@ -1,2 +1,0 @@
-# programozas-karrier
-# programozas-karrier
